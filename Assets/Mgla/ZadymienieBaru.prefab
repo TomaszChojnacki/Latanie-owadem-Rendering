@@ -44,13 +44,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae3db0beef4348a42b2cfa91d2bbbd59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AtmosferycznaMgla
-  kolorMgly: {r: 0.5188679, g: 0.4420014, b: 0.35488605, a: 1}
-  gestoscMgly: 0.03
+  kolorMgly: {r: 0.4745098, g: 0.42352942, b: 0.35686275, a: 1}
+  gestoscMgly: 0.025
   poczatekMgly: 2.5
-  maksymalnaWidocznosc: 0.35
+  maksymalnaWidocznosc: 0.3
   wysokoscMgly: 3
   zakresWysokosci: 3
-  silaZawirowan: 0.25
+  silaZawirowan: 0.2
   skalaSzumu: 0.35
-  predkoscMgly: 0.08
+  predkoscMgly: 0.06
   wlaczMgla: 1

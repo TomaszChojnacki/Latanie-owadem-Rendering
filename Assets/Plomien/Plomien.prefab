@@ -274,6 +274,6 @@ MonoBehaviour:
   predkoscMigotaniaPlomienia: 0.7
   swiatloLampy: {fileID: 4792780760613998073}
   bazowaIntensywnoscSwiatla: 1.8
-  silaMigotaniaSwiatla: 0.25
+  silaMigotaniaSwiatla: 0.35
   bazowyZasiegSwiatla: 2.4
   silaMigotaniaZasiegu: 0.015
