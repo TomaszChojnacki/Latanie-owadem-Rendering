@@ -1,0 +1,6 @@
+Ocena	Efekt 1						Efekt 2
+3.0	Świecące punkty kontrolne			Animowany płomień lampy naftowej
+3.5	Kurz unoszący się w powietrzu			Dym z cygara lub kominka
+4.0	Kurz reagujący na przelot owada			Interaktywny ślad na zakurzonej powierzchni
+4.5	Atmosferyczna mgła głębi			Dynamiczne oświetlenie i kolorystyka baru
+5.0	Ray marching – wolumetryczna smuga światła	SDF – proceduralny dym reagujący na owada
